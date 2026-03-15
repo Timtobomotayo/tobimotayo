@@ -1,10 +1,13 @@
 <h1>Hi, I'm Tobi! <br/><a href="https://github.com/joshmadakor1">Project Manager</a>, <a href="https://www.linkedin.com/in/oluwatobi-omotayo-/">IT & Cybersecurity Professional</h1>
 
-<h2>👨‍💻 IT & Cybersecurity Project Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects</h2>
 
-- <b>Systems Admistration Practice</b>
+- <b>Vulnerability Management</b>
   - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
 
+- <b>Systems Admistration</b>
+  - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
+  - 
 <h2>👨‍💻 Certifications:</h2>
 
 - [CompTIA Network+](https://www.credly.com/badges/9c2231d8-0689-4042-b7ec-0d05a74e22ff/public_url) -2026
