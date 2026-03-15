@@ -4,7 +4,11 @@
 
 - <b>System Admistration</b>
   - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
-- <b>Vulnerability Management</b>
+- <b>Vulnerability Management Program Implementation</b>
+  - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
+  - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
+- <b>Security Operation and Incident Response Projects</b>
+  - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
   - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
     
 <h2>👨‍💻 Certifications:</h2>
