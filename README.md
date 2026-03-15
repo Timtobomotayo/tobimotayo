@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT & Cybersecurity Projects</h2>
 
-- <b>Systems Admistration</b>
+- <b>System Admistration</b>
   - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
 - <b>Vulnerability Management</b>
   - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
