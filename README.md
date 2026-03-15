@@ -7,6 +7,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
+- [CompTIA Network+](https://www.credly.com/badges/9c2231d8-0689-4042-b7ec-0d05a74e22ff/public_url) -2026
 - [CompTIA Security+](https://www.credly.com/badges/97575ce6-c55c-496c-af0e-73940e4b2249/public_url) -2025
 - [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/bcae8403-7194-46f3-85e5-3df39e96466c/public_url) -2025
 
