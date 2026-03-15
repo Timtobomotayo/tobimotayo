@@ -4,7 +4,10 @@
 
 - <b>System Admistration</b>
   - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
-    
+- <b>Vulnerability Management Projects</b>
+  - [Vulnerability Management Program Implementation](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
+  - [Programmatic Vulnerability Remediations(PowerShell and BASH)](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
+
 <h2>👨‍💻 Certifications:</h2>
 
 - [CompTIA Network+](https://www.credly.com/badges/9c2231d8-0689-4042-b7ec-0d05a74e22ff/public_url) -2026
