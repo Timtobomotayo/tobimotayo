@@ -11,9 +11,6 @@
 - [CompTIA Security+](https://www.credly.com/badges/97575ce6-c55c-496c-af0e-73940e4b2249/public_url) -2025
 - [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/bcae8403-7194-46f3-85e5-3df39e96466c/public_url) -2025
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
