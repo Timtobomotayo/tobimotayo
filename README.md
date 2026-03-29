@@ -3,16 +3,16 @@
 <h2>👨‍💻 IT & Cybersecurity Projects</h2>
 
 - <b>System Admistration</b>
-  - [Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
+  - **[Active Directory Home Lab](https://github.com/Timtobomotayo/ActiveDirectory-Lab)**
 - <b>Vulnerability Management Projects</b>
-  - [Vulnerability Management Program Implementation](https://github.com/Timtobomotayo/vulnerability-management-program)
-  - [Programmatic Vulnerability Remediations(PowerShell and BASH)](https://github.com/Timtobomotayo/ActiveDirectory-Lab)
+  - **[Vulnerability Management Program Implementation](https://github.com/Timtobomotayo/vulnerability-management-program)**
+  - **[Programmatic Vulnerability Remediations(PowerShell and BASH)](https://github.com/Timtobomotayo/ActiveDirectory-Lab)**
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [CompTIA Network+](https://www.credly.com/badges/9c2231d8-0689-4042-b7ec-0d05a74e22ff/public_url) -2026
-- [CompTIA Security+](https://www.credly.com/badges/97575ce6-c55c-496c-af0e-73940e4b2249/public_url) -2025
-- [Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/bcae8403-7194-46f3-85e5-3df39e96466c/public_url) -2025
+- **[CompTIA Network+](https://www.credly.com/badges/9c2231d8-0689-4042-b7ec-0d05a74e22ff/public_url)** -2026
+- **[CompTIA Security+](https://www.credly.com/badges/97575ce6-c55c-496c-af0e-73940e4b2249/public_url)** -2025
+- **[Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/bcae8403-7194-46f3-85e5-3df39e96466c/public_url)** -2025
 
 
 <h2> 🤳 Connect with me:</h2>
