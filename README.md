@@ -10,6 +10,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
+- **[Microsoft SC-300](https://learn.microsoft.com/api/credentials/share/en-us/OluwatobiOmotayo-0202/3675BDF62355BA27?sharingId=CC3556303D50502D)**
 - **[Microsoft AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/OluwatobiOmotayo-0202/4139820791B978CB?sharingId=CC3556303D50502D)**
 - **[CompTIA Network+](https://www.credly.com/badges/9c2231d8-0689-4042-b7ec-0d05a74e22ff/public_url)**
 - **[CompTIA Security+](https://www.credly.com/badges/97575ce6-c55c-496c-af0e-73940e4b2249/public_url)**
